@@ -1,0 +1,5 @@
+Public class Services{
+  public double food_charge(int days){
+        return 300*days;
+  }
+}
